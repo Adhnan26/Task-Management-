@@ -35,6 +35,6 @@ Mern Stack Developer – EMC Student
 Guided by Agnel John (Founder, EMC)
 Supported by Nandhini (Co-Mentor)
 
-🌐 Deployment: The project is live on Vercel: 👉 
+🌐 Deployment: The project is live on Vercel: 👉 task-management-brown-rho.vercel.app
 
 Thank you for visiting my Task Management website.
