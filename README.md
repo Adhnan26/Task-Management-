@@ -34,3 +34,7 @@ Mohamed Adhnan
 Mern Stack Developer – EMC Student
 Guided by Agnel John (Founder, EMC)
 Supported by Nandhini (Co-Mentor)
+
+🌐 Deployment: The project is live on Vercel: 👉 
+
+Thank you for visiting my Task Management website.
